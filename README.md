@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/brayanmuzzi](https://github.com/brayanmuzzi)
 
-- 💬 Ask me about **ReactJS**
-
 - 📫 How to reach me **bcmuzzi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>

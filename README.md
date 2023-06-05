@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brayan Muzzi</h1>
 <h3 align="center">A passionate student developer from Brazil, focused on learning and accumulating knowledge.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brayanmuzzi&label=Profile%20views&color=0e75b6&style=flat" alt="brayanmuzzi" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/brayanmuzzi](https://github.com/brayanmuzzi)
 
 - 💬 Ask me about **ReactJS**
